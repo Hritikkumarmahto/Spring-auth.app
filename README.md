@@ -63,13 +63,13 @@ The system provides:
 ## 🖼️ Screenshots
 
 ### 🏠 Landing Page
-![Landing Page](images/landing.png)
+![Landing Page](Images/landing.png)
 
 ### 📝 Register Page
-![Register Page](images/register.png)
+![Register Page](Images/register.png)
 
 ### 🔑 Login Page
-![Login Page](images/login.png)
+![Login Page](Images/login.png)
 
 > 📌 Create an `images` folder in the project root and place screenshots there.
 
